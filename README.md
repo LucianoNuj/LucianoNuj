@@ -13,5 +13,7 @@
 
  ##
  <div>
+    <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCJqXPtFPLMWKPfFmlXVxmJSvbkPpTzxXgpPqfGxLGrgBnsLPcdHCZtVlLnZsbvXllKsMqJV">
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     <a href="https://www.linkedin.com/in/luciano-u-52b331205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    </div>
